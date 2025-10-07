@@ -2,7 +2,7 @@
 
 # 3D Volume Calculation
 
-[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/0PKunal/3d-Volume-Calculation?style=social)](https://github.com/0PKunal/3d-Volume-Calculation/stargazers)
 
@@ -81,7 +81,7 @@ Where $\theta \in [0, 2\pi]$ completes the full revolution around the x-axis.
 
 ### Prerequisites
 
-- **Python 3.6 or higher**
+- **Python 3.7 or higher**
 - **pip** (Python package manager)
 
 ### Setup
@@ -267,7 +267,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **MIT License** - Copyright (c) 2025 0PKunal
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions outlined in the [LICENSE](LICENSE) file.
+*Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions outlined in the [LICENSE](LICENSE) file.*
+
 ---
 > **Note:** This README.md file was generated with the assistance of GitHub Copilot. While every effort has been made to ensure accuracy and clarity, there may still be minor errors or inconsistencies. Users are encouraged to review the content carefully and make any necessary adjustments.
 ---
