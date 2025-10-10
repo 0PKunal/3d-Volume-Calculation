@@ -16,6 +16,7 @@ A Python-based mathematical tool for calculating and visualizing the volume of s
 - [Mathematical Background](#mathematical-background)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Output](#output)
 - [Customization](#customization)
 - [Technical Details](#technical-details)
 - [Contributing](#contributing)
