@@ -124,7 +124,7 @@ Run the script using Python:
 python 3d_Volume_Calculation.py
 ```
 
-### Output
+## Output
 
 When executed, the script will:
 
